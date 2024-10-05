@@ -6,7 +6,7 @@
   "run": [{
     "method": "shell.run",
     "params": {
-      "message": "git clone https://github.com/cocktailpeanut/kohya_ss.git"
+      "message": "git clone -b sd3-flux.1 https://github.com/bmaltais/kohya_ss"
     }
   }, {
     "method": "shell.run",
